@@ -8,8 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
-//&& fast->next->next != NULL
+ 
 
 /*  
     TC: O(n)
