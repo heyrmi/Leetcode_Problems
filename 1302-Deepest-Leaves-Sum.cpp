@@ -10,7 +10,7 @@
  * };
  */
 
-//DFS solution
+//DFS solution      {TC: O(n), SC: O(n)}
 class Solution {
 public: 
     int deepest = 0, sum = 0;                           //global variables
@@ -38,7 +38,7 @@ public:
 
 
  
-//BFS solution
+//BFS solution      {TC: O(n), SC: O(n)}
 class Solution {
 public: 
     int deepestLeavesSum(TreeNode* root){ 
