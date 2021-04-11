@@ -11,6 +11,11 @@
 
 //&& fast->next->next != NULL
 
+/*  
+    TC: O(n)
+    SC: O(1)
+*/
+
 class Solution {
 public:
     
