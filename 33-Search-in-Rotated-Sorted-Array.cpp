@@ -44,4 +44,5 @@ num = {4,5,6,7,8,0,1,2,3}
 4. is_big                                           //fasle
 
 as 3 is smaller than value it will go to first else
-then last else will be executed because 3 is the extreme right.
+then last else will be executed because 3 is the extreme right. 
+*/
